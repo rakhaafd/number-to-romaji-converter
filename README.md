@@ -1,6 +1,6 @@
-# Number to Romaji Converter
+# Number to Romaji Converter🏯🎎
 
-Program ini dibuat untuk mempermudah belajar bahasa Jepang dengan mengonversi angka ke dalam bentuk Romaji (bacaan Jepang).
+Program ini dibuat untuk mempermudah belajar bahasa Jepang dengan mengonversi angka ke dalam bentuk Romaji (bacaan Jepang)🎌.
 
 ## Cara Menggunakan
 
@@ -9,12 +9,12 @@ Program ini dibuat untuk mempermudah belajar bahasa Jepang dengan mengonversi an
 git clone https://github.com/rakhaafd/number-to-romaji-converter.git
 ```
 
-3. Masuk ke direktori proyek:
+2. Masuk ke direktori proyek:
 ```bash
 cd number-to-romaji-converter
 ```
 
-4. Jalankan program menggunakan Python:
+3. Jalankan program menggunakan Python:
 ```bash
 python3 app.py
 ```
